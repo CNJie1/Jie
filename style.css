@@ -108,7 +108,7 @@ h2 {
     left: 0;
     width: 100%;
     height: 100px;
-    background: url('头像主题/wave.png');
+    background: url('/头像主题/wave.png');
     background-size: 1000px 100px;
 }
 
